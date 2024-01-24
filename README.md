@@ -75,6 +75,6 @@ d. Si el número de cuentas creadas es igual a 0, el mensaje será: **Mala campa
 
 
 ### Presentación del trabajo final
-- En la carpeta **proyecto**, debe crear un proyecto de Netbeans.
-- En dicho proyecto se debe generar la solución.
+- En la carpeta **proyecto**, debe crear un proyecto de Netbeans / Java. En dicho proyecto se debe generar la solución.
+- En la carpeta **proyecto_python**, debe crear un proyecto solución para Python.
 
